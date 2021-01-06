@@ -3,6 +3,7 @@ import { createAction, createReducer, configureStore } from '@reduxjs/toolkit';
 import { Shape, ShapeColors, ShapeShapes } from '../../domain/shapes/shape';
 import { getShapes as fetchShapes } from '../../domain/shapes/use-cases/get-shapes';
 
+// eslint-disable-next-line
 export const getShapes = () => async (dispatch: any) => {
   try {
     dispatch(getShapesInit());

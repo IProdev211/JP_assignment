@@ -1,4 +1,3 @@
-import { EDEADLK } from 'constants';
 import styled from 'styled-components';
 
 export const Container = styled.div`

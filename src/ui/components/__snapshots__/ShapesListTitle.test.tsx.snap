@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ShapesListTitle should match snapshot 1`] = `
+<h2
+  class="sc-bdfBwQ dHzUuQ"
+>
+  All items:
+</h2>
+`;

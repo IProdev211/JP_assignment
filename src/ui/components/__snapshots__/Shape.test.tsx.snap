@@ -1,0 +1,271 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Shape should match snapshot 1`] = `
+<div
+  class="sc-bdfBwQ sc-gsTCUz bEPRz kmBfpU"
+  color="purple"
+>
+  <div />
+</div>
+`;
+
+exports[`Shape should match snapshot 2`] = `
+<div
+  class="sc-bdfBwQ sc-gsTCUz fLKWre kmBfpU"
+  color="red"
+>
+  <div />
+</div>
+`;
+
+exports[`Shape should match snapshot 3`] = `
+<div
+  class="sc-bdfBwQ sc-gsTCUz gMtiFK kmBfpU"
+  color="green"
+>
+  <div />
+</div>
+`;
+
+exports[`Shape should match snapshot 4`] = `
+<div
+  class="sc-bdfBwQ sc-gsTCUz cIXVGL kmBfpU"
+  color="blue"
+>
+  <div />
+</div>
+`;
+
+exports[`Shape should match snapshot 5`] = `
+<div
+  class="sc-bdfBwQ sc-gsTCUz kxyUnR kmBfpU"
+  color="yellow"
+>
+  <div />
+</div>
+`;
+
+exports[`Shape should match snapshot 6`] = `
+<div
+  class="sc-bdfBwQ sc-gsTCUz fLCdOs kmBfpU"
+  color="grey"
+>
+  <div />
+</div>
+`;
+
+exports[`Shape should match snapshot 7`] = `
+<div
+  class="sc-bdfBwQ sc-dlfnbm bEPRz"
+  color="purple"
+>
+  <div />
+</div>
+`;
+
+exports[`Shape should match snapshot 8`] = `
+<div
+  class="sc-bdfBwQ sc-dlfnbm fLKWre"
+  color="red"
+>
+  <div />
+</div>
+`;
+
+exports[`Shape should match snapshot 9`] = `
+<div
+  class="sc-bdfBwQ sc-dlfnbm gMtiFK"
+  color="green"
+>
+  <div />
+</div>
+`;
+
+exports[`Shape should match snapshot 10`] = `
+<div
+  class="sc-bdfBwQ sc-dlfnbm cIXVGL"
+  color="blue"
+>
+  <div />
+</div>
+`;
+
+exports[`Shape should match snapshot 11`] = `
+<div
+  class="sc-bdfBwQ sc-dlfnbm kxyUnR"
+  color="yellow"
+>
+  <div />
+</div>
+`;
+
+exports[`Shape should match snapshot 12`] = `
+<div
+  class="sc-bdfBwQ sc-dlfnbm fLCdOs"
+  color="grey"
+>
+  <div />
+</div>
+`;
+
+exports[`Shape should match snapshot 13`] = `
+<div
+  class="sc-bdfBwQ sc-hKgILt bEPRz bfjoYk"
+  color="purple"
+>
+  <div />
+</div>
+`;
+
+exports[`Shape should match snapshot 14`] = `
+<div
+  class="sc-bdfBwQ sc-hKgILt fLKWre dIJjBd"
+  color="red"
+>
+  <div />
+</div>
+`;
+
+exports[`Shape should match snapshot 15`] = `
+<div
+  class="sc-bdfBwQ sc-hKgILt gMtiFK cCWxIV"
+  color="green"
+>
+  <div />
+</div>
+`;
+
+exports[`Shape should match snapshot 16`] = `
+<div
+  class="sc-bdfBwQ sc-hKgILt cIXVGL cbeKOc"
+  color="blue"
+>
+  <div />
+</div>
+`;
+
+exports[`Shape should match snapshot 17`] = `
+<div
+  class="sc-bdfBwQ sc-hKgILt kxyUnR biKfYG"
+  color="yellow"
+>
+  <div />
+</div>
+`;
+
+exports[`Shape should match snapshot 18`] = `
+<div
+  class="sc-bdfBwQ sc-hKgILt fLCdOs fRpkxj"
+  color="grey"
+>
+  <div />
+</div>
+`;
+
+exports[`Shape should match snapshot 19`] = `
+<div
+  class="sc-bdfBwQ sc-eCssSg bEPRz eRvqwA"
+  color="purple"
+>
+  <div />
+</div>
+`;
+
+exports[`Shape should match snapshot 20`] = `
+<div
+  class="sc-bdfBwQ sc-eCssSg fLKWre hfvboh"
+  color="red"
+>
+  <div />
+</div>
+`;
+
+exports[`Shape should match snapshot 21`] = `
+<div
+  class="sc-bdfBwQ sc-eCssSg gMtiFK koROfJ"
+  color="green"
+>
+  <div />
+</div>
+`;
+
+exports[`Shape should match snapshot 22`] = `
+<div
+  class="sc-bdfBwQ sc-eCssSg cIXVGL gWUKLE"
+  color="blue"
+>
+  <div />
+</div>
+`;
+
+exports[`Shape should match snapshot 23`] = `
+<div
+  class="sc-bdfBwQ sc-eCssSg kxyUnR isoRIa"
+  color="yellow"
+>
+  <div />
+</div>
+`;
+
+exports[`Shape should match snapshot 24`] = `
+<div
+  class="sc-bdfBwQ sc-eCssSg fLCdOs csZguL"
+  color="grey"
+>
+  <div />
+</div>
+`;
+
+exports[`Shape should match snapshot 25`] = `
+<div
+  class="sc-bdfBwQ sc-jSgupP bEPRz fyeLUR"
+  color="purple"
+>
+  <div />
+</div>
+`;
+
+exports[`Shape should match snapshot 26`] = `
+<div
+  class="sc-bdfBwQ sc-jSgupP fLKWre bLUvMg"
+  color="red"
+>
+  <div />
+</div>
+`;
+
+exports[`Shape should match snapshot 27`] = `
+<div
+  class="sc-bdfBwQ sc-jSgupP gMtiFK fmSRmM"
+  color="green"
+>
+  <div />
+</div>
+`;
+
+exports[`Shape should match snapshot 28`] = `
+<div
+  class="sc-bdfBwQ sc-jSgupP cIXVGL bQutAR"
+  color="blue"
+>
+  <div />
+</div>
+`;
+
+exports[`Shape should match snapshot 29`] = `
+<div
+  class="sc-bdfBwQ sc-jSgupP kxyUnR cmlrvf"
+  color="yellow"
+>
+  <div />
+</div>
+`;
+
+exports[`Shape should match snapshot 30`] = `
+<div
+  class="sc-bdfBwQ sc-jSgupP fLCdOs kJVjSu"
+  color="grey"
+>
+  <div />
+</div>
+`;

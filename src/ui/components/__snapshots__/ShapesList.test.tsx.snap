@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ShapesList without shapes should match snapshot 1`] = `
+<p
+  class="sc-kEjbxe"
+>
+  No shapes matching criteria were found.
+</p>
+`;

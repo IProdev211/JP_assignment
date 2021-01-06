@@ -1,0 +1,99 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Filters should match snapshot 1`] = `
+<div
+  class="sc-bdfBwQ bKpwki"
+>
+  <ul
+    class="sc-gsTCUz nUtTt"
+  >
+    <li
+      class="sc-dlfnbm sc-hKgILt jdwhnD kCTcbZ"
+      data-testid="ShapeFilter-round"
+      title="round"
+    >
+      round
+    </li>
+    <li
+      class="sc-dlfnbm sc-hKgILt jdwhnD kCTcbZ"
+      data-testid="ShapeFilter-square"
+      title="square"
+    >
+      square
+    </li>
+    <li
+      class="sc-dlfnbm sc-hKgILt jdwhnD kCTcbZ"
+      data-testid="ShapeFilter-triangle"
+      title="triangle"
+    >
+      triangle
+    </li>
+    <li
+      class="sc-dlfnbm sc-hKgILt jdwhnD kCTcbZ"
+      data-testid="ShapeFilter-oval"
+      title="oval"
+    >
+      oval
+    </li>
+    <li
+      class="sc-dlfnbm sc-hKgILt jdwhnD kCTcbZ"
+      data-testid="ShapeFilter-rectangle"
+      title="rectangle"
+    >
+      rectangle
+    </li>
+  </ul>
+  <ul
+    class="sc-gsTCUz nUtTt"
+  >
+    <li
+      class="sc-dlfnbm sc-eCssSg jdwhnD gqWOnC"
+      color="purple"
+      data-testid="ColorFilter-purple"
+      title="purple"
+    >
+      purple
+    </li>
+    <li
+      class="sc-dlfnbm sc-eCssSg jdwhnD jruijj"
+      color="red"
+      data-testid="ColorFilter-red"
+      title="red"
+    >
+      red
+    </li>
+    <li
+      class="sc-dlfnbm sc-eCssSg jdwhnD cpXATr"
+      color="green"
+      data-testid="ColorFilter-green"
+      title="green"
+    >
+      green
+    </li>
+    <li
+      class="sc-dlfnbm sc-eCssSg jdwhnD eyGrwO"
+      color="blue"
+      data-testid="ColorFilter-blue"
+      title="blue"
+    >
+      blue
+    </li>
+    <li
+      class="sc-dlfnbm sc-eCssSg jdwhnD dNFxLw"
+      color="yellow"
+      data-testid="ColorFilter-yellow"
+      title="yellow"
+    >
+      yellow
+    </li>
+    <li
+      class="sc-dlfnbm sc-eCssSg jdwhnD lotLMF"
+      color="grey"
+      data-testid="ColorFilter-grey"
+      title="grey"
+    >
+      grey
+    </li>
+  </ul>
+</div>
+`;
